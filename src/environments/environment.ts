@@ -4,5 +4,7 @@
 // The list of which env maps to which file can be found in `.angular-cli.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  PIXABAY_API_KEY: '7418303-5e3c09998cd8f71e9512c0d97',
+  PIXABAY_API_URL: 'https://pixabay.com/api/?key='
 };
